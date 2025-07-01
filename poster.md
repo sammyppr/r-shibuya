@@ -83,6 +83,7 @@ LINEにて、掲示板のどこに貼るかを通知します。
 ### 元画像より作成
 - [渋谷区全リスト](./2025mapurl.html)
 - [Sammy分](./2025mapurl-sammy.html)
+- [矢田っち分](./2025mapurl-yadacchi.html)
 
 ### 元画像
 ![](img/2025list/2025list_10.jpg)
